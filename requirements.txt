@@ -1,6 +1,7 @@
 streamlit==0.89.0
-llama-index==<version>  # Replace <version> with the specific version you need
-cohere==<version>       # Replace <version> with the specific version you need
-langchain==<version>    # Replace <version> with the specific version you need
-llama-cpp-python==<version>  # Replace <version> with the specific version you need
+llama-index
+cohere
+langchain
+llama-cpp-python
 wget==3.2
+
